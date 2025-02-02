@@ -16,6 +16,7 @@
 🛠️ **[The Hunter’s Tavern](https://github.com/JoellKebret/Hunters-Tavern)** is a full-stack **wiki and chat app** for **Hunter x Hunter fans**. It provides a collaborative platform for users to explore and discuss the **Hunter x Hunter universe**. <br>
 🚀 Built with **React, MongoDB, Express, Node, and Firebase**, the application includes **real-time messaging, dynamic wiki content, and an interactive user interface**. 
 
+--- 
 
 ## 💻 My Skills
 
