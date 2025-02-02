@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Joell Kebret!  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&width=435&lines=Hi%2C+I'm+Joell+Kebret!+👋;Full-Stack+Developer+%7C+MERN+Stack;Passionate+about+building+projects!)
 
 ## 🌟 About Me  
 🔹 Passionate Full-Stack Developer  
@@ -46,4 +47,4 @@
 
 ---
 
-### **✨ "The only way to do great work is to love what you do." - Steve Jobs**  
+### ** "Nothing can happen until you swing the bat" - Haruko Haruhara**  
