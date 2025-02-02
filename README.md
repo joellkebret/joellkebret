@@ -1,50 +1,78 @@
-# 👋 Hi, I'm Joell Kebret!  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&width=435&lines=Hi%2C+I'm+Joell+Kebret!+👋;Full-Stack+Developer+%7C+MERN+Stack;Passionate+about+building+projects!)
+### Hi there! I'm Joell Kebret 👨‍💻
 
-## 🌟 About Me  
-🔹 Passionate Full-Stack Developer  
-🔹 Enthusiast of **React, Node.js, MongoDB, and Firebase**  
-🔹 Love building **web applications** and learning new technologies  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=24F7B6&width=435&lines=%F0%9F%91%8B+Hello%2C+I+am+Joell+Kebret!)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=JoellKebret&label=Visitors&color=0e75b6&style=flat)
 
 ---
 
-## 🚀 My Projects  
+## 🚀 About Me
 
-### 🎯 [Hunters Tavern](https://hunters-tavern.vercel.app)  
-🔹 A **Hunter x Hunter** themed **community platform** with:  
-✔️ **User authentication** (MongoDB, Express, Firebase)  
-✔️ **Chat & forum discussions**  
-✔️ **Anime & manga sections**  
-
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
+🎓 I am a **Second-Year Computer Science student** at the **University of Guelph**. <br>
+💡 I aspire to be a **Data Engineer**, solving problems with **web applications** that are as functional as they are visually appealing. <br>
+📚 Currently learning **React** and **Jupyter Notebook**.
 
 ---
 
-## 📌 Skills  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
+## 🔥 Featured Project: **Hunter’s Tavern**
+
+🛠️ **[The Hunter’s Tavern](https://github.com/JoellKebret/Hunters-Tavern)** is a full-stack **wiki and chat app** for **Hunter x Hunter fans**. It provides a collaborative platform for users to explore and discuss the **Hunter x Hunter universe**. <br>
+🚀 Built with **React, MongoDB, Express, Node, and Firebase**, the application includes **real-time messaging, dynamic wiki content, and an interactive user interface**. 
 
 ---
 
-## 📊 GitHub Stats  
-![Joell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joellkebret&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joellkebret&layout=compact&theme=radical)  
+## 💻 My Skills
+
+### 🖥️ Programming Languages:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40"/>
+</p>
+
+### ⚙️ Frameworks, Databases & Tools:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joellkebret)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joellkebret)  
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoellKebret&show_icons=true&theme=radical" alt="Joell's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoellKebret&theme=radical" alt="Joell's GitHub Streak" width="48%"/>
+</div>
 
 ---
 
-### ** "Nothing can happen until you swing the bat" - Haruko Haruhara**  
+## 📫 Contact Me
+
+- **GitHub**: [JoellKebret](https://github.com/JoellKebret)
+- **LinkedIn**: [Joell Kebret](https://www.linkedin.com/in/joell-kebret-a0558a346/)
+- **Email**: joellkebret05@gmail.com
+
+---
+
+## 🏆 Inspirational Quote
+
+> **"Nothing can happen until you swing the bat."** - *Haruko Haruhara*
+
+![Swing the Bat](https://media.tenor.com/lcY6pIivfXAAAAAC/furi-kuri-flcl.gif)
+
+---
+
+⭐ **Thanks for visiting!** ⭐
