@@ -1,6 +1,6 @@
 ### Hi there! I'm Joell Kebret 👨‍💻
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=24F7B6&width=435&lines=%F0%9F%91%8B+Hello%2C+I+am+Joell+Kebret!)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Hi+there!+I'm+Joell+Kebret+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JoellKebret&label=Visitors&color=0e75b6&style=flat)
 
