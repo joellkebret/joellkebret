@@ -10,6 +10,7 @@
 💡 I aspire to be a **Data Engineer**, solving problems with **web applications** that are as functional as they are visually appealing. <br>
 📚 Currently learning **React** and **Jupyter Notebook**.
 
+---
 
 ## 🔥 Featured Project: **Hunter’s Tavern**
 
