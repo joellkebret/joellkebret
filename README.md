@@ -1,6 +1,4 @@
-### Hi there! I'm Joell Kebret 👨‍💻
-
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Hi+there!+I'm+Joell+Kebret+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Hi+there!+I'm+Joell+Kebret+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JoellKebret&label=Visitors&color=0e75b6&style=flat)
 
@@ -12,14 +10,12 @@
 💡 I aspire to be a **Data Engineer**, solving problems with **web applications** that are as functional as they are visually appealing. <br>
 📚 Currently learning **React** and **Jupyter Notebook**.
 
----
 
 ## 🔥 Featured Project: **Hunter’s Tavern**
 
 🛠️ **[The Hunter’s Tavern](https://github.com/JoellKebret/Hunters-Tavern)** is a full-stack **wiki and chat app** for **Hunter x Hunter fans**. It provides a collaborative platform for users to explore and discuss the **Hunter x Hunter universe**. <br>
 🚀 Built with **React, MongoDB, Express, Node, and Firebase**, the application includes **real-time messaging, dynamic wiki content, and an interactive user interface**. 
 
----
 
 ## 💻 My Skills
 
