@@ -10,14 +10,12 @@
 💡 I aspire to be a **Data Engineer**, solving problems with **web applications** that are as functional as they are visually appealing. <br>
 📚 Currently learning **React** and **Jupyter Notebook**.
 
----
 
 ## 🔥 Featured Project: **Hunter’s Tavern**
 
 🛠️ **[The Hunter’s Tavern](https://github.com/JoellKebret/Hunters-Tavern)** is a full-stack **wiki and chat app** for **Hunter x Hunter fans**. It provides a collaborative platform for users to explore and discuss the **Hunter x Hunter universe**. <br>
 🚀 Built with **React, MongoDB, Express, Node, and Firebase**, the application includes **real-time messaging, dynamic wiki content, and an interactive user interface**. 
 
----
 
 ## 💻 My Skills
 
@@ -43,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -68,6 +65,5 @@
 > **"Nothing can happen until you swing the bat."** - *Haruko Haruhara*
 
 ![Swing the Bat](https://media.tenor.com/lcY6pIivfXAAAAAC/furi-kuri-flcl.gif)
-
 
 ⭐ **Thanks for visiting!** ⭐
