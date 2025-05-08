@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoellKebret&show_icons=true&theme=radical" alt="Joell's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoellKebret&theme=radical" alt="Joell's GitHub Streak" width="48%"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joellkebret&show_icons=true&locale=en&layout=compact" alt="joellkebret" /></p>
 </div>
 
 ---
