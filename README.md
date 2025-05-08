@@ -12,13 +12,6 @@
 
 ---
 
-## 🔥 Featured Project: **Hunter’s Tavern**
-
-🛠️ **[The Hunter’s Tavern](https://github.com/JoellKebret/Hunters-Tavern)** is a full-stack **wiki and chat app** for **Hunter x Hunter fans**. It provides a collaborative platform for users to explore and discuss the **Hunter x Hunter universe**. <br>
-🚀 Built with **React, MongoDB, Express, Node, and Firebase**, the application includes **real-time messaging, an encrpyted user-authentication system, dynamic wiki content about the anime, and an interactive user interface**. 
-
---- 
-
 ## 💻 My Skills
 
 ### 🖥️ Programming Languages:
@@ -61,8 +54,6 @@
 - **GitHub**: [JoellKebret](https://github.com/JoellKebret)
 - **LinkedIn**: [Joell Kebret](https://www.linkedin.com/in/joell-kebret-a0558a346/)
 - **Email**: joellkebret05@gmail.com
-
-## 🏆 Inspirational Quote
 
 > **"Nothing can happen until you swing the bat."** - *Haruko Haruhara*
 
