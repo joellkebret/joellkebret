@@ -43,9 +43,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoellKebret&show_icons=true&theme=radical" alt="Joell's GitHub Stats" width="48%"/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joellkebret&theme=radical&langs_count=5&layout=compact&title_color=000000&text_color=0000FF)](https://github.com/joellkebret)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JoellKebret&show_icons=true&theme=radical"
+    alt="Joell's GitHub Stats"
+    width="48%"
+  />
+  <br/>
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joellkebret&theme=radical&langs_count=5&layout=compact&title_color=000000&text_color=0000FF)](https://github.com/joellkebret)
 </div>
 
 ---
