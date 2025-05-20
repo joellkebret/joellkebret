@@ -10,7 +10,7 @@
  I aspire to be a **Data Engineer**, solving problems with **web applications** that are as functional as they are visually appealing. <br>
  Currently brushing up on DSA
 
-**Leetcode**: [leetcode](https://leetcode.com/u/joellkebrett/)
+**Leetcode**: [joellkebrett](https://leetcode.com/u/joellkebrett/)
 
 ---
 
