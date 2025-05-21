@@ -1,18 +1,15 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=808080&width=435&lines=Hi+there!+I'm+Joell+Kebret)
+Hey there, I'm Joell
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JoellKebret&label=Visitors&color=0e75b6&style=flat)
-
----
 
 ## About Me
 
  I am a **Second-Year Computer Science student** at the **University of Guelph**. <br>
- I aspire to be a **Data Engineer**, solving problems with **web applications** that are as functional as they are visually appealing. <br>
+ I am interested in Cloud and Data Engieering and bulding data intensive applications. <br>
  Currently brushing up on DSA
 
 **Leetcode**: [joellkebrett](https://leetcode.com/u/joellkebrett/)
 
----
 
 ### Programming Languages:
 <p>
@@ -38,19 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoellKebret&show_icons=true&theme=radical" alt="Joell's GitHub Stats" width="48%"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joellkebret&theme=dark" alt="joellkebret" /></p>
-</div>
-
----
-
-## 📫 Contact Me
+## Contact Me
 
 - **GitHub**: [JoellKebret](https://github.com/JoellKebret)
 - **LinkedIn**: [Joell Kebret](https://www.linkedin.com/in/joell-kebret-a0558a346/)
 - **Email**: joellkebret05@gmail.com
 
 > **"Nothing can happen until you swing the bat."** - *Haruko Haruhara*
+ ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
