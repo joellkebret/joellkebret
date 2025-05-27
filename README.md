@@ -7,7 +7,8 @@ Hey there, I'm Joell
 
  **Leetcode**: [jkebret](https://leetcode.com/u/jkebret/)
 
- I mainly work with Python, Java, C and JavaScript
+ I mainly work with Python, Java, C and JavaScript <br/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joellkebret&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 ## Contact Me
 - **LinkedIn**: [Joell Kebret](https://www.linkedin.com/in/joell-kebret-a0558a346/)
