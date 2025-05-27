@@ -5,7 +5,7 @@ Hey there, I'm Joell
  I am interested in Cloud and Data Engineering and building data intensive applications. <br>
  Currently brushing up on DSA
 
- **Leetcode**: [joellkebrett](https://leetcode.com/u/joellkebrett/)
+ **Leetcode**: [jkebret](https://leetcode.com/u/jkebret/)
 
  I mainly work with Python, Java, C and JavaScript
 
