@@ -1,7 +1,7 @@
 Hey there, I'm Joell
 
 ## About Me
- I am a **Second-Year Computer Science student** at the **University of Guelph**. <br>
+ I am a **Junior Computer Science student** at the **University of Guelph**. <br>
  I am interested in Cloud and Data Engineering and building data intensive applications. <br>
  Currently brushing up on DSA
 
@@ -16,3 +16,4 @@ Hey there, I'm Joell
 <br/>Nothing Can happen Until You Swing the Bat <br/>
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif) <br/>
 ![Visitor Count](https://komarev.com/ghpvc/?username=JoellKebret&label=Visitors&color=0e75b6&style=flat)
+
