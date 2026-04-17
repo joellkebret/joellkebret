@@ -3,11 +3,6 @@ Hey there, I'm Joell
 ## About Me
  I am a **Junior Computer Science student** at the **University of Guelph**. <br>
  I am interested in Cloud and Data Engineering and building data intensive applications. <br>
- Currently brushing up on DSA
-
- **Leetcode**: [jkebret](https://leetcode.com/u/jkebret/)
-
- I mainly work with Python, Java, C and JavaScript
 
 ## Contact Me
 - **LinkedIn**: [Joell Kebret](https://www.linkedin.com/in/joell-kebret-a0558a346/)
