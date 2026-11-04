@@ -2,7 +2,7 @@ Hey there, I'm Joell
 
 ## About Me
  I am a **Senior Computer Science student** at the **University of Guelph**. <br>
- I am interested in Cloud and Data Engineering and building data-intensive applications. <br>
+ I am interested in building backend systems :)
 
 ## Contact Me
 - **LinkedIn**: [Joell Kebret](https://www.linkedin.com/in/joell-kebret-a0558a346/)
