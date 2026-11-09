@@ -4,6 +4,10 @@ Hey there, I'm Joell
  I am a **Senior Computer Science student** at the **University of Guelph**. <br>
  I am interested in building backend systems :)
 
+ Currently aiming to get better at system design and DSA
+
+ Leetcode: https://leetcode.com/u/jkebret
+
 ## Contact Me
 - **LinkedIn**: [Joell Kebret](https://www.linkedin.com/in/joell-kebret-a0558a346/)
 - **Email**: joellkebret05@gmail.com 
