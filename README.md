@@ -6,8 +6,6 @@ Hey there, I'm Joell
 
  Currently aiming to get better at system design and DSA
 
- Leetcode: https://leetcode.com/u/jkebret
-
 ## Contact Me
 - **LinkedIn**: [Joell Kebret](https://www.linkedin.com/in/joell-kebret-a0558a346/)
 - **Email**: joellykebret@gmail.com
